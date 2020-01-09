@@ -1,0 +1,10 @@
+{
+  "name": "test-json-serve",
+  "version": "0.1.0",
+  "dependencies": {
+    "json-serve": "^0.1.0"
+  },
+  "scripts": {
+    "backend": "json-server server.json -p 3333 -w"
+  }
+}

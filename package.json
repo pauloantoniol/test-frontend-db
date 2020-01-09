@@ -5,6 +5,6 @@
     "json-serve": "^0.1.0"
   },
   "scripts": {
-    "backend": "json-server server.json -p 3333 -w"
+    "backend": "json-server server.json -w"
   }
 }
